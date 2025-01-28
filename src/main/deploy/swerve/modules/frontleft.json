@@ -1,0 +1,27 @@
+{
+  "location": {
+    "front": 15,
+    "left": 5
+  },
+  "absoluteEncoderOffset": null,
+  "drive": {
+    "type": "falcon",
+    "id": 10,
+    "canbus": null
+  },
+  "angle": {
+    "type": "falcon",
+    "id": 8,
+    "canbus": null
+  },
+  "encoder": {
+    "type": "thrifty",
+    "id": 2,
+    "canbus": null
+  },
+  "inverted": {
+    "drive": false,
+    "angle": false
+  },
+  "absoluteEncoderInverted": false
+}
